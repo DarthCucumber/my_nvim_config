@@ -4,8 +4,9 @@ Plug 'kaicataldo/material.vim', { 'branch': 'main' }
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'preservim/nerdcommenter'
-Plug 'w0rp/ale'
-Plug 'sheerun/vim-polyglot'
+Plug 'jiangmiao/auto-pairs'
+Plug 'prettier/vim-prettier', { 'do': 'npm install'  }
+Plug 'codota/tabnine-vim'
 call plug#end()
 
 set number
