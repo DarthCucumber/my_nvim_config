@@ -1,4 +1,4 @@
-# my_nvim_config
+# my nvim config
 
 Nothing just a backup of my NVIM config.
 
